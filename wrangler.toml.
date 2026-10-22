@@ -4,4 +4,4 @@ compatibility_date = "2024-01-01"
 
 [[kv_namespaces]]
 binding = "aria-sessions"
-id = "aria-sessions
+id = npx wrangler kv namespace create BINDING_NAME
