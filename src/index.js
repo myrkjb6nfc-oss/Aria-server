@@ -180,4 +180,4 @@ export default {
 
     return jsonResponse({ error: 'Non trovato' }, 404);
   },
-};
+}; 
